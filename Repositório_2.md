@@ -9,8 +9,8 @@ o dataset contém informações detalhadas sobre pacientes de um hospital.Os pro
 ### Instruções claras de execução:
 
 1. Baixar o dataset: [stroke_risk](https://www.kaggle.com/datasets/mobeenfatimah/stroke-risk-prediction-dataset?resource=download)
-2. Entrar no link para o dataset: [dataset](https://colab.research.google.com/drive/1Rf_DMPLYV6OUE8BpiCHFbuPnG7nGkLAj?usp=sharing) 
-3. Fazer upload do dataset para o dataset do colab
+2. Entrar no link para o notebook virtual: [notebook virtual](https://colab.research.google.com/drive/1Rf_DMPLYV6OUE8BpiCHFbuPnG7nGkLAj?usp=sharing) 
+3. Fazer upload do dataset para o notebook do colab
     
 ### Resumo dos principais resultados e da tabela comparativa final  
 
